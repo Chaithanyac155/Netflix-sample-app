@@ -1,2 +1,3 @@
-# Netflix-sample-app
+# Netflix
+
 Created with CodeSandbox
